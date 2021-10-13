@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="name">Your name</string>
+    <string name="lname"> Your lastname</string>
+    <string name="phone">Phone number</string>
+    <string name="email">Email </string>
+</resources>
